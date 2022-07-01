@@ -1,0 +1,298 @@
+﻿Data;Medicamento;Cidade;Vendedor;Custos;Quantidade;Unitário
+18/01/2001;Cloranfenicol;Rio de Janeiro;Sandra;4590;102;142,5
+23/01/2001;Hidantal;Campinas;Marcos;6124,8;116;116,6
+30/01/2001;Vancomicina;Curitiba;João;57944,22;111;1323,26
+11/09/2001;Dipirona;Franca;Marcos;3494,4;128;54,6
+11/02/2001;Cloranfenicol;Curitiba;Sandra;3159;78;142,5
+15/02/2001;Omeprazol;Campinas;Marcos;510,3;81;15,82
+20/02/2001;Cloranfenicol;Brasilia;João;3180;106;121,5
+07/03/2001;Hidantal;Campinas;Marina;2596;118;111,1
+11/03/2001;Omeprazol;Rio de Janeiro;Sandra;383,04;76;15,4
+16/03/2001;Cloranfenicol;Salvador;Marcos;3321;82;124,5
+19/03/2001;Dipirona;Ribeirão Preto;João;2645,5;110;78
+20/03/2001;Fenobarbital;Franca;Marina;3689,4;110;86
+23/03/2001;Cloranfenicol;Santos;Sandra;3741;86;153
+25/03/2001;Dipirona;Barretos;Marcos;1914,25;95;60,45
+28/03/2001;Hidantal;Brasilia;João;5412;120;121
+29/03/2001;Omeprazol;Campinas;Marina;288,26;71;16,1
+30/03/2001;Dipirona;Brasilia;Sandra;3635,45;119;55,9
+02/04/2001;Cloranfenicol;Salvador;Marcos;6450;86;171
+04/04/2001;Vancomicina;Salvador;João;42902,76;114;1141,16
+05/04/2001;Vancomicina;Salvador;Marina;50769,48;123;1189,72
+07/04/2001;Dipirona;Rio de Janeiro;Sandra;3011,45;113;59,8
+07/04/2001;Fenobarbital;Rio de Janeiro;Marcos;3555,24;106;98,04
+11/04/2001;Vancomicina;Curitiba;João;46872,54;117;1408,24
+18/04/2001;Dipirona;Curitiba;Marina;2573,35;107;72,15
+22/04/2001;Fenobarbital;Franca;Sandra;4128;96;69,66
+27/04/2001;Dipirona;Ribeirão Preto;Marcos;2930,2;92;62,4
+02/05/2001;Dipirona;Santos;João;2433,6;104;63,7
+07/05/2001;Fenobarbital;Rio de Janeiro;Marina;4129,72;98;79,12
+11/05/2001;Cloranfenicol;Barretos;Sandra;4725;90;144
+15/05/2001;Dipirona;Campinas;Marcos;2224,3;118;59,8
+18/05/2001;Dipirona;Santos;João;2714,4;116;66,3
+20/05/2001;Dipirona;Barretos;Marina;2889,9;114;57,2
+20/05/2001;Dipirona;Curitiba;Sandra;1466,4;94;64,35
+21/05/2001;Hidantal;Franca;Marcos;3220,8;122;102,3
+23/05/2001;Cloranfenicol;Brasilia;João;4410;98;178,5
+26/05/2001;Dipirona;Campinas;Marina;2288;110;78
+30/05/2001;Vancomicina;Curitiba;Sandra;46617,6;120;1274,7
+01/06/2001;Dipirona;Franca;Marcos;1772,55;101;61,75
+08/06/2001;Dipirona;Salvador;João;2102,1;98;66,95
+11/06/2001;Dipirona;Curitiba;Marina;1982,5;122;70,85
+15/06/2001;Fenobarbital;Santos;Sandra;4179,6;108;84,28
+23/06/2001;Dipirona;Ribeirão Preto;Marcos;3849,3;126;55,9
+24/06/2001;Fenobarbital;Ribeirão Preto;João;1960,8;114;95,46
+02/07/2001;Fenobarbital;Curitiba;Marina;2793,28;112;79,12
+07/08/2002;Dipirona;Franca;Marcos;3910,4;128;65,65
+13/07/2001;Omeprazol;Curitiba;Marina;184,8;66;11,48
+19/07/2001;Hidantal;Curitiba;Sandra;5982,9;111;104,5
+21/07/2001;Hidantal;Salvador;Marcos;2448,6;106;110
+23/07/2001;Omeprazol;Campinas;João;483;69;14,28
+26/07/2001;Hidantal;Salvador;Marina;3555,2;101;93,5
+28/07/2001;Vancomicina;Ribeirão Preto;Sandra;67328,44;118;1165,44
+29/07/2001;Hidantal;Barretos;Marcos;3137,2;124;112,2
+01/08/2001;Hidantal;Brasilia;João;3216,4;86;127,6
+01/09/2003;Dipirona;Franca;Marcos;2163,2;128;58,5
+10/08/2001;Hidantal;Barretos;Sandra;3403,4;91;102,3
+11/08/2001;Fenobarbital;Curitiba;Marcos;2150;100;77,4
+13/08/2001;Omeprazol;Santos;João;378;90;13,02
+20/08/2001;Cloranfenicol;Santos;Marina;5766;124;172,5
+22/08/2001;Omeprazol;Ribeirão Preto;João;393,12;72;15,4
+28/08/2001;Hidantal;Franca;Marina;3801,6;96;111,1
+30/08/2001;Hidantal;Ribeirão Preto;Sandra;3062,4;116;110
+02/09/2001;Fenobarbital;Santos;Marcos;4122,84;102;76,54
+10/07/2001;Dipirona;Salvador;João;1774,5;130;68,9
+08/09/2001;Omeprazol;Ribeirão Preto;Marina;646,8;105;11,9
+10/09/2001;Omeprazol;Franca;Sandra;665,28;99;15,26
+05/06/2002;Dipirona;Salvador;João;2704;130;72,8
+14/09/2001;Omeprazol;Santos;João;523,74;87;16,66
+19/09/2001;Omeprazol;Ribeirão Preto;Marina;514,08;102;12,18
+23/09/2001;Omeprazol;Brasilia;Sandra;611,94;93;14,14
+27/09/2001;Omeprazol;Rio de Janeiro;Marcos;618,24;96;13,02
+30/09/2001;Hidantal;Ribeirão Preto;João;5821,2;126;115,5
+02/10/2001;Omeprazol;Campinas;Marina;332,64;108;16,52
+07/10/2001;Fenobarbital;Ribeirão Preto;João;4472;104;84,28
+09/10/2001;Omeprazol;Ribeirão Preto;Marina;315;75;14,28
+10/10/2001;Omeprazol;Brasilia;Sandra;535,08;78;11,34
+11/10/2001;Vancomicina;Barretos;Marcos;58988,26;113;983,34
+20/10/2001;Omeprazol;Curitiba;João;517,44;84;16,66
+22/10/2001;Vancomicina;Ribeirão Preto;Marina;24182,88;83;1141,16
+30/10/2001;Vancomicina;Brasilia;Sandra;23454,48;92;1214
+02/11/2001;Dipirona;Curitiba;Marcos;3981,25;125;66,95
+04/11/2001;Dipirona;Ribeirão Preto;João;3013,4;122;54,6
+11/11/2001;Omeprazol;Franca;Marina;306,18;81;15,96
+13/11/2001;Vancomicina;Brasilia;Sandra;51133,68;108;1347,54
+17/11/2001;Vancomicina;Ribeirão Preto;Marcos;59753,08;107;1262,56
+18/11/2001;Vancomicina;Campinas;João;47515,96;103;1359,68
+19/11/2001;Vancomicina;Salvador;Marina;46132;95;1165,44
+20/11/2001;Vancomicina;Ribeirão Preto;João;34453,32;86;1250,42
+24/11/2001;Hidantal;Barretos;Marina;2928,2;121;107,8
+05/12/2001;Vancomicina;Campinas;Sandra;47588,8;98;1335,4
+06/12/2001;Vancomicina;Ribeirão Preto;Marcos;28553,28;98;1141,16
+10/12/2001;Vancomicina;Santos;João;41773,74;93;1323,26
+11/12/2001;Vancomicina;Ribeirão Preto;Marina;60080,86;101;1044,04
+14/12/2001;Cloranfenicol;Rio de Janeiro;Sandra;6732;102;142,5
+14/12/2001;Cloranfenicol;Campinas;Sandra;3915;90;136,5
+16/12/2001;Cloranfenicol;Rio de Janeiro;Marcos;2940;98;163,5
+19/12/2001;Hidantal;Campinas;Marcos;5614,4;116;124,3
+19/12/2001;Vancomicina;Salvador;João;57422,2;110;1214
+26/12/2001;Vancomicina;Curitiba;João;63334,38;111;1396,1
+28/12/2001;Vancomicina;Santos;Marina;33117,92;88;1165,44
+30/12/2001;Vancomicina;Barretos;Sandra;48620,7;89;1141,16
+30/06/2003;Dipirona;Salvador;João;2366;130;72,8
+06/01/2002;Vancomicina;Ribeirão Preto;Marcos;50502,4;104;1408,24
+07/01/2002;Cloranfenicol;Curitiba;Sandra;4212;78;157,5
+07/01/2002;Cloranfenicol;Curitiba;João;4371;94;130,5
+11/01/2002;Omeprazol;Campinas;Marcos;340,2;81;11,34
+16/01/2002;Cloranfenicol;Brasilia;João;4134;106;169,5
+31/01/2002;Hidantal;Campinas;Marina;3894;118;106,7
+04/02/2002;Omeprazol;Rio de Janeiro;Sandra;276,64;76;14,84
+09/02/2002;Cloranfenicol;Salvador;Marcos;4305;82;148,5
+12/02/2002;Dipirona;Ribeirão Preto;João;2002;110;57,2
+13/02/2002;Fenobarbital;Franca;Marina;2365;110;80,84
+16/02/2002;Cloranfenicol;Santos;Sandra;3225;86;169,5
+18/02/2002;Dipirona;Barretos;Marcos;1296,75;95;62,4
+21/02/2002;Hidantal;Brasilia;João;4752;120;104,5
+22/02/2002;Omeprazol;Campinas;Marina;328,02;71;15,68
+23/02/2002;Dipirona;Brasilia;Sandra;2165,8;119;76,7
+26/02/2002;Cloranfenicol;Salvador;Marcos;3612;86;142,5
+28/02/2002;Vancomicina;Salvador;João;31831,08;114;1007,62
+01/03/2002;Vancomicina;Salvador;Marina;53755,92;123;1396,1
+03/03/2002;Dipirona;Rio de Janeiro;Sandra;2203,5;113;78
+03/03/2002;Fenobarbital;Rio de Janeiro;Marcos;1914,36;106;92,88
+07/03/2002;Vancomicina;Curitiba;João;45452,16;117;1104,74
+14/03/2002;Dipirona;Curitiba;Marina;1877,85;107;71,5
+18/03/2002;Fenobarbital;Franca;Sandra;3715,2;96;79,12
+23/03/2002;Dipirona;Ribeirão Preto;Marcos;1674,4;92;75,4
+28/03/2002;Dipirona;Santos;João;1622,4;104;53,95
+02/04/2002;Fenobarbital;Rio de Janeiro;Marina;3118,36;98;88,58
+06/04/2002;Cloranfenicol;Barretos;Sandra;5130;90;145,5
+10/04/2002;Dipirona;Campinas;Marcos;3681,6;118;56,55
+13/04/2002;Dipirona;Santos;João;2714,4;116;74,75
+15/04/2002;Dipirona;Barretos;Marina;2371,2;114;76,7
+15/04/2002;Dipirona;Curitiba;Sandra;2810,6;94;52
+16/04/2002;Hidantal;Franca;Marcos;6307,4;122;106,7
+18/04/2002;Cloranfenicol;Brasilia;João;5292;98;139,5
+21/04/2002;Dipirona;Campinas;Marina;2645,5;110;66,3
+25/04/2002;Vancomicina;Curitiba;Sandra;50988;120;1262,56
+27/04/2002;Dipirona;Franca;Marcos;3216,85;101;57,2
+04/05/2002;Dipirona;Salvador;João;1656,2;98;68,9
+07/05/2002;Dipirona;Curitiba;Marina;3013,4;122;52,65
+11/05/2002;Fenobarbital;Santos;Sandra;1857,6;108;76,54
+19/05/2002;Dipirona;Ribeirão Preto;Marcos;2293,2;126;55,9
+20/05/2002;Fenobarbital;Ribeirão Preto;João;4902;114;86
+28/05/2002;Fenobarbital;Curitiba;Marina;2119,04;112;91,16
+06/09/2001;Dipirona;Rio de Janeiro;João;2895,1;131;78
+08/06/2002;Omeprazol;Curitiba;Marina;452,76;66;12,46
+14/06/2002;Hidantal;Curitiba;Sandra;4029,3;111;88
+16/06/2002;Hidantal;Salvador;Marcos;3964,4;106;122,1
+18/06/2002;Omeprazol;Campinas;João;318,78;69;13,16
+21/06/2002;Hidantal;Salvador;Marina;4666,2;101;117,7
+23/06/2002;Vancomicina;Ribeirão Preto;Sandra;48705,68;118;1323,26
+24/06/2002;Hidantal;Barretos;Marcos;3137,2;124;112,2
+27/06/2002;Hidantal;Brasilia;João;3500,2;86;97,9
+02/08/2002;Dipirona;Rio de Janeiro;João;1873,3;131;64,35
+06/07/2002;Hidantal;Barretos;Sandra;2102,1;91;110
+07/07/2002;Fenobarbital;Curitiba;Marcos;3354;100;69,66
+09/07/2002;Omeprazol;Santos;João;567;90;14,7
+16/07/2002;Cloranfenicol;Santos;Marina;7068;124;154,5
+18/07/2002;Omeprazol;Ribeirão Preto;João;252;72;11,48
+24/07/2002;Hidantal;Franca;Marina;4857,6;96;126,5
+26/07/2002;Hidantal;Ribeirão Preto;Sandra;2552;116;111,1
+29/07/2002;Fenobarbital;Santos;Marcos;3421,08;102;80,84
+27/08/2003;Dipirona;Rio de Janeiro;João;2299,05;131;53,3
+04/08/2002;Omeprazol;Ribeirão Preto;Marina;573,3;105;11,34
+06/08/2002;Omeprazol;Franca;Sandra;554,4;99;12,32
+04/08/2001;Dipirona;Brasilia;Marina;3309,8;134;68,25
+10/08/2002;Omeprazol;Santos;João;328,86;87;11,2
+15/08/2002;Omeprazol;Ribeirão Preto;Marina;342,72;102;12,46
+19/08/2002;Omeprazol;Brasilia;Sandra;507,78;93;13,44
+23/08/2002;Omeprazol;Rio de Janeiro;Marcos;295,68;96;14,28
+26/08/2002;Hidantal;Ribeirão Preto;João;4296,6;126;100,1
+28/08/2002;Omeprazol;Campinas;Marina;650,16;108;13,72
+02/09/2002;Fenobarbital;Ribeirão Preto;João;2057,12;104;103,2
+04/09/2002;Omeprazol;Ribeirão Preto;Marina;514,5;75;16,38
+05/09/2002;Omeprazol;Brasilia;Sandra;480,48;78;11,2
+06/09/2002;Vancomicina;Barretos;Marcos;27436,4;113;1129,02
+15/09/2002;Omeprazol;Curitiba;João;470,4;84;11,34
+17/09/2002;Vancomicina;Ribeirão Preto;Marina;36274,32;83;1068,32
+25/09/2002;Vancomicina;Brasilia;Sandra;50259,6;92;1068,32
+28/09/2002;Dipirona;Curitiba;Marcos;2356,25;125;64,35
+30/09/2002;Dipirona;Ribeirão Preto;João;3806,4;122;66,3
+07/10/2002;Omeprazol;Franca;Marina;226,8;81;12,46
+09/10/2002;Vancomicina;Brasilia;Sandra;31466,88;108;1347,54
+13/10/2002;Vancomicina;Ribeirão Preto;Marcos;29876,54;107;1298,98
+14/10/2002;Vancomicina;Campinas;João;57519,32;103;1371,82
+15/10/2002;Vancomicina;Salvador;Marina;55358,4;95;1104,74
+16/10/2002;Vancomicina;Ribeirão Preto;João;32365,24;86;1396,1
+20/10/2002;Hidantal;Barretos;Marina;5989,5;121;130,9
+31/10/2002;Vancomicina;Campinas;Sandra;57106,56;98;1226,14
+01/11/2002;Vancomicina;Ribeirão Preto;Marcos;51157,96;98;983,34
+05/11/2002;Vancomicina;Santos;João;24838,44;93;1420,38
+06/11/2002;Vancomicina;Ribeirão Preto;Marina;44141,04;101;1311,12
+09/11/2002;Cloranfenicol;Campinas;Sandra;2835;90;142,5
+11/11/2002;Cloranfenicol;Rio de Janeiro;Marcos;4557;98;172,5
+14/11/2002;Vancomicina;Salvador;João;32049,6;110;1359,68
+23/11/2002;Vancomicina;Santos;Marina;50211,04;88;1214
+25/11/2002;Vancomicina;Barretos;Sandra;30252,88;89;1456,8
+02/12/2002;Vancomicina;Ribeirão Preto;Marcos;27776,32;104;1323,26
+03/12/2002;Cloranfenicol;Curitiba;João;6627;94;174
+08/01/2003;Cloranfenicol;Rio de Janeiro;Sandra;7650;102;133,5
+13/01/2003;Hidantal;Campinas;Marcos;3317,6;116;88
+20/01/2003;Vancomicina;Curitiba;João;39078,66;111;1335,4
+30/06/2002;Dipirona;Brasilia;Marina;2438,8;134;72,8
+01/02/2003;Cloranfenicol;Curitiba;Sandra;4095;78;142,5
+05/02/2003;Omeprazol;Campinas;Marcos;567;81;11,76
+10/02/2003;Cloranfenicol;Brasilia;João;6996;106;141
+25/02/2003;Hidantal;Campinas;Marina;3374,8;118;93,5
+01/03/2003;Omeprazol;Rio de Janeiro;Sandra;372,4;76;11,9
+06/03/2003;Cloranfenicol;Salvador;Marcos;4797;82;159
+09/03/2003;Dipirona;Ribeirão Preto;João;2431;110;55,9
+10/03/2003;Fenobarbital;Franca;Marina;3121,8;110;97,18
+13/03/2003;Cloranfenicol;Santos;Sandra;5289;86;159
+15/03/2003;Dipirona;Barretos;Marcos;2902,25;95;63,7
+18/03/2003;Hidantal;Brasilia;João;2904;120;125,4
+19/03/2003;Omeprazol;Campinas;Marina;367,78;71;11,48
+20/03/2003;Dipirona;Brasilia;Sandra;2011,1;119;63,05
+23/03/2003;Cloranfenicol;Salvador;Marcos;6063;86;174
+25/03/2003;Vancomicina;Salvador;João;60894,24;114;1080,46
+26/03/2003;Vancomicina;Salvador;Marina;29864,4;123;1238,28
+28/03/2003;Dipirona;Rio de Janeiro;Sandra;2203,5;113;70,85
+28/03/2003;Fenobarbital;Rio de Janeiro;Marcos;4284,52;106;73,96
+01/04/2003;Vancomicina;Curitiba;João;61076,34;117;1189,72
+08/04/2003;Dipirona;Curitiba;Marina;2156,05;107;60,45
+12/04/2003;Fenobarbital;Franca;Sandra;2146,56;96;86
+17/04/2003;Dipirona;Ribeirão Preto;Marcos;2990;92;61,75
+22/04/2003;Dipirona;Santos;João;1622,4;104;53,95
+27/04/2003;Fenobarbital;Rio de Janeiro;Marina;2275,56;98;98,04
+01/05/2003;Cloranfenicol;Barretos;Sandra;4725;90;136,5
+05/05/2003;Dipirona;Campinas;Marcos;3374,8;118;63,05
+08/05/2003;Dipirona;Santos;João;1960,4;116;70,2
+10/05/2003;Dipirona;Barretos;Marina;2667,6;114;72,8
+10/05/2003;Dipirona;Curitiba;Sandra;2138,5;94;65
+11/05/2003;Hidantal;Franca;Marcos;4026;122;104,5
+13/05/2003;Cloranfenicol;Brasilia;João;5586;98;123
+16/05/2003;Dipirona;Campinas;Marina;3074,5;110;61,75
+20/05/2003;Vancomicina;Curitiba;Sandra;32049,6;120;1116,88
+22/05/2003;Dipirona;Franca;Marcos;1706,9;101;65
+29/05/2003;Dipirona;Salvador;João;1337,7;98;57,2
+01/06/2003;Dipirona;Curitiba;Marina;1744,6;122;76,7
+05/06/2003;Fenobarbital;Santos;Sandra;3900,96;108;79,98
+13/06/2003;Dipirona;Ribeirão Preto;Marcos;1883,7;126;75,4
+14/06/2003;Fenobarbital;Ribeirão Preto;João;1960,8;114;99,76
+22/06/2003;Fenobarbital;Curitiba;Marina;4141,76;112;79,12
+25/07/2003;Dipirona;Brasilia;Marina;2351,7;134;62,4
+03/07/2003;Omeprazol;Curitiba;Marina;341,88;66;14,84
+09/07/2003;Hidantal;Curitiba;Sandra;4029,3;111;103,4
+11/07/2003;Hidantal;Salvador;Marcos;2681,8;106;119,9
+13/07/2003;Omeprazol;Campinas;João;260,82;69;13,02
+16/07/2003;Hidantal;Salvador;Marina;2888,6;101;119,9
+18/07/2003;Vancomicina;Ribeirão Preto;Sandra;64463,4;118;1214
+19/07/2003;Hidantal;Barretos;Marcos;6410,8;124;123,2
+22/07/2003;Hidantal;Brasilia;João;3784;86;119,9
+07/02/2001;Cloranfenicol;Campinas;Marina;10098;153;178,5
+31/07/2003;Hidantal;Barretos;Sandra;4504,5;91;117,7
+01/08/2003;Fenobarbital;Curitiba;Marcos;3870;100;78,26
+03/08/2003;Omeprazol;Santos;João;604,8;90;14,84
+10/08/2003;Cloranfenicol;Santos;Marina;4464;124;126
+12/08/2003;Omeprazol;Ribeirão Preto;João;463,68;72;12,6
+18/08/2003;Hidantal;Franca;Marina;4963,2;96;104,5
+20/08/2003;Hidantal;Ribeirão Preto;Sandra;3828;116;108,9
+23/08/2003;Fenobarbital;Santos;Marcos;1754,4;102;75,68
+03/01/2002;Cloranfenicol;Campinas;Marina;8721;153;121,5
+29/08/2003;Omeprazol;Ribeirão Preto;Marina;617,4;105;15,82
+31/08/2003;Omeprazol;Franca;Sandra;291,06;99;15,4
+28/01/2003;Cloranfenicol;Campinas;Marina;10098;153;121,5
+04/09/2003;Omeprazol;Santos;João;426,3;87;11,76
+09/09/2003;Omeprazol;Ribeirão Preto;Marina;485,52;102;13,16
+13/09/2003;Omeprazol;Brasilia;Sandra;286,44;93;16,52
+17/09/2003;Omeprazol;Rio de Janeiro;Marcos;645,12;96;14
+20/09/2003;Hidantal;Ribeirão Preto;João;4019,4;126;116,6
+22/09/2003;Omeprazol;Campinas;Marina;453,6;108;15,12
+27/09/2003;Fenobarbital;Ribeirão Preto;João;3935,36;104;70,52
+29/09/2003;Omeprazol;Ribeirão Preto;Marina;399;75;12,18
+30/09/2003;Omeprazol;Brasilia;Sandra;447,72;78;11,34
+01/10/2003;Vancomicina;Barretos;Marcos;31551,86;113;1007,62
+10/10/2003;Omeprazol;Curitiba;João;482,16;84;12,6
+12/10/2003;Vancomicina;Ribeirão Preto;Marina;34259,08;83;1432,52
+20/10/2003;Vancomicina;Brasilia;Sandra;46908,96;92;983,34
+23/10/2003;Dipirona;Curitiba;Marcos;2112,5;125;68,9
+25/10/2003;Dipirona;Ribeirão Preto;João;3013,4;122;65,65
+01/11/2003;Omeprazol;Franca;Marina;272,16;81;11,9
+03/11/2003;Vancomicina;Brasilia;Sandra;49822,56;108;1274,7
+07/11/2003;Vancomicina;Ribeirão Preto;Marcos;61052,06;107;1104,74
+08/11/2003;Vancomicina;Campinas;João;25008,4;103;1250,42
+09/11/2003;Vancomicina;Salvador;Marina;47285,3;95;1007,62
+10/11/2003;Vancomicina;Ribeirão Preto;João;21924,84;86;1214
+14/11/2003;Hidantal;Barretos;Marina;5190,9;121;116,6
+25/11/2003;Vancomicina;Campinas;Sandra;39260,76;98;1238,28
+26/11/2003;Vancomicina;Ribeirão Preto;Marcos;35691,6;98;1007,62
+30/11/2003;Vancomicina;Santos;João;36128,64;93;971,2
+01/12/2003;Vancomicina;Ribeirão Preto;Marina;50271,74;101;1007,62
+04/12/2003;Cloranfenicol;Campinas;Sandra;3510;90;165
+06/12/2003;Cloranfenicol;Rio de Janeiro;Marcos;3969;98;171
+09/12/2003;Vancomicina;Salvador;João;38726,6;110;1383,96
+18/12/2003;Vancomicina;Santos;Marina;34186,24;88;1298,98
+20/12/2003;Vancomicina;Barretos;Sandra;54023;89;1335,4
+27/12/2003;Vancomicina;Ribeirão Preto;Marcos;27776,32;104;1408,24
+28/12/2003;Cloranfenicol;Curitiba;João;4512;94;121,5
