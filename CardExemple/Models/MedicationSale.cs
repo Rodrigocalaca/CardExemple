@@ -2,7 +2,7 @@
 
 namespace CardExemple.Models
 {
-    public class MedicationSale
+    public class MedicationSale : DbObject
     {
         [Name("SaleDate")]
         public DateTime SaleDate { get; set; }
